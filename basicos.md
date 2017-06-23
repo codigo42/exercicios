@@ -1,13 +1,12 @@
-
 # Exercícios
 
 ## Fluxo simples
 
-### 1. Centímetros e metros
+### 1. Metros e centímetros
 
-Escreva um programa que pergunta a altura da pessoa em centímetros e exiba a altura em metros, neste formato:
+Escreva um programa que pergunta a altura da pessoa em metros e exiba a altura em centímetros, neste formato:
 
-`Sua altura é 1.78m.`
+`Sua altura é 178 cm.`
 
 ### 2. IMC - Índice de Massa Corporal
 
@@ -15,7 +14,15 @@ Escreva um programa que pergunta a altura da pessoa em centímetros, depois pede
 
 Dado o peso `P` em Kg e altura em metros `A`, a fórmula do o IMC é: `P / A²`,
 
-### 3. Minutos e horas
+
+### 3. Horas e minutos
+
+Escreva um programa que solicita a duração de um filme em horas, e exibe a duração em minutos, neste formato:
+
+`O filme dura 180 minutos.`
+
+
+### 4. Minutos e horas
 
 Escreva um programa que solicita a duração de um filme em minutos, e exibe a duração em horas e minutos, neste formato:
 
@@ -34,7 +41,7 @@ Para obter a "sobra" de minutos (o resto da divisão por minutos), use a fórmul
 Considerando 135 minutos, o resultado da operação acima é 15.
 
 
-### 4. Pés e polegadas
+### 5. Pés e polegadas
 
 Escreva um programa que pergunta a altura da pessoa em centímetros e exiba a altura em metros, neste formato:
 
