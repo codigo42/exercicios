@@ -22,3 +22,11 @@ Escreva um programa que pede a idade de um cachorro em anos e informa o estágio
 | de 1 a 3 anos incompletos | adolescente |
 |            3 ou mais anos | adulto      |
 ```
+
+### 3. Excesso de velocidade
+
+Faça um programa que aplica multas por excesso de velocidade. O programa pergunta a velocidade do veículo e, caso ela seja até 80km/h, informa `Velocidade permitida`.
+
+Se a velocidade for maior que 80km/h, o programa calcula uma multa no valor de R$ 200 + R$ 5 por cada km/h acima de 80.
+
+Por exemplo, se a velocidade for 87km/h, a multa será de R$ 235 (200 + 7 * 5). 
