@@ -47,6 +47,6 @@ Exemplo:
 ```
 Informe a velocidade permitida: 100
 Informe a velocidade do veículo: 130
-RESULTADO
+***RESULTADO***
 Infração grave: multa de R$ 127 e 5 pontos na carteira.
 ```
