@@ -2,14 +2,14 @@
 
 ## Definições com `def`
 
-### 1. Muitas bolas
+### 1. São João
 
-Escreva uma função que recebe um número `n` e imprime o símbolo
-de uma bola (`'\u26db '`) repetido `n` vezes.
+Escreva uma função que recebe um número `n` e imprime os símbolos
+de bandeiras (`'\u25bc \u25bd '`) repetido `n` vezes.
 
 ```
 >>> repete(5)
-⚽ ⚽ ⚽ ⚽ ⚽
+'▼ ▽ ▼ ▽ ▼ ▽ ▼ ▽ ▼ ▽ '
 ```
 
 ### 2. O maior de dois números
