@@ -2,7 +2,17 @@
 
 ## Definições com `def`
 
-### 1. O maior de dois números
+### 1. Muitas bolas
+
+Escreva uma função que recebe um número `n` e imprime o símbolo
+de uma bola (`'\u26db '`) repetido `n` vezes.
+
+```
+>>> repete(5)
+⚽ ⚽ ⚽ ⚽ ⚽
+```
+
+### 2. O maior de dois números
 
 Escreva uma função que recebe dois números e devolve o maior
 deles. Por exemplo:
@@ -16,7 +26,7 @@ deles. Por exemplo:
 5
 ```
 
-### 2. O menor de dois textos
+### 3. O menor de dois textos
 
 Escreva uma função que recebe dois textos e devolve o menor
 deles. Se eles forem do mesmo tamanho, devolve o primeiro.
@@ -34,12 +44,3 @@ Por exemplo:
 Dica: você pode usar a função `len` para obter o tamanho de
 um texto.
 
-### 3. Muitas bolas
-
-Escreva uma função que recebe um número `n` e imprime o símbolo
-de uma bola (`'\u26db '`) repetido `n` vezes.
-
-```
->>> repete(5)
-⚽ ⚽ ⚽ ⚽ ⚽
-```
